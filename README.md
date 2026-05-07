@@ -9,7 +9,7 @@ Esta é uma Web API desenvolvida em **.NET 10** para o cálculo de rentabilidade
 * **Banco de Dados:** SQLite (para portabilidade e facilidade de avaliação)
 * **Documentação:** Swagger (Swashbuckle)
 * **Testes:** xUnit e Moq
-* **Logging:** Serilog/Microsoft Logging
+* **Logging:** Microsoft Logging
 
 ## 🏗️ Arquitetura
 
