@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="InvestimentoApp.API/InvestimentoApp.API.csproj" />
+  <Project Path="InvestimentoApp.Application/InvestimentoApp.Application.csproj" Id="a017446a-6eb5-4554-9dda-2370c23ae1c1" />
+  <Project Path="InvestimentoApp.Domain/InvestimentoApp.Domain.csproj" Id="5a5f83ee-5e32-410a-a84b-68fca0ac2e17" />
+  <Project Path="InvestimentoApp.Infraestructure/InvestimentoApp.Infrastructure.csproj" Id="97abc2d6-5220-4e2c-88a4-f89195fa6390" />
+  <Project Path="InvestimentoApp.Tests/InvestimentoApp.Tests.csproj" Id="f4fdede6-3313-4353-ba04-d30096069d9d" />
+</Solution>
